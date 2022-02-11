@@ -1,5 +1,5 @@
 //Fibonacci Sequence
-//Chloe Nguyen
+//cNguyen
 //2.10.2022 Data Structures
 //Compute the Fibonacci function using double recursion
 
