@@ -16,7 +16,6 @@ public class MinVal {
 				minValue = intArray[i];
 			}
 		}
-		//return minValue;
-		System.out.println("Minimum value of integers " + a + ", " + b + ", and " + c + " is " + minValue);
+		System.out.println("Minimum value of integers " + a + ", " + b + ", and " + c + " is " + minValue);			//return minValue;
 	}
 }
