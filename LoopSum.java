@@ -5,7 +5,7 @@
 
 public class LoopSum {
   public static void main(String[] args) {
-        display_LoopSum(11,10);
+        displayLoopSum(11,10);
   }
   private static void displayLoopSum(int a, int b) {
   	int sum = 0;
